@@ -2,4 +2,4 @@
 
 Problem Statement: Find words from any given word.
 
-A simple beginner project in C++ ,console-based.
+A simple beginner project in C ,console-based.
